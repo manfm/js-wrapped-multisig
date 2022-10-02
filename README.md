@@ -1,23 +1,21 @@
 # TON blockchain JS wrapped multisig contract
 
-```
-yarn
-cp .env.example .env
-```
-
 JS Interaction scripts for [multisig contract](https://github.com/akifoq/multisig).
-
-## Compilation
-
-Compile the contract with `func -SPA stdlib.fc multisig-code.fc multisig-code.fif`.
 
 ## Instalation
 
 ```
 yarn
+cp .env.example .env
 ```
-
+Make sure you have func installed.
 Fift binaries come with package, you don't need to install them.
+
+## Compilation
+
+Compile the contract with `func -SPA stdlib.fc multisig-code.fc multisig-code.fif`.
+
+Should this repository include compiled contract?
 
 ## Scripts
 

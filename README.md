@@ -3,7 +3,7 @@
 JS Interaction scripts for [multisig contract](https://github.com/akifoq/multisig).
 
 ## About
-This repository contains simple nodejs code to interact with TON multisig wallet. This wallet needs to receive all signatures in one messages. Backend server is needed to facilitate signing for all signers.
+This repository contains simple Node.js code to deploy and interact with TON multisig wallet. This wallet needs to receive all signatures in one messages. Backend server is needed to facilitate signing for all signers.
 
 ## Instalation
 
